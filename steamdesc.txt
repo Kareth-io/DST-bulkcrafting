@@ -1,0 +1,27 @@
+[h1]Description[/h1]
+This mod allows players to craft certain items in bulk quantites. It also includes a few configuration options to help tweak things to match the difficulty of ones server. This was inspired somewhat by the "Craft More Darts" mod, and does contain that mods functionality within thiss one. If you have existing mods that mess with the base costs of the recipies this bulkifys you should expect some inconsistent results.
+
+Bulk craft amount can be tweaked anywhere from 2-20. Default is 10.
+Resource cost can be set to 10%-100%, 100% being normal cost. Default is 80%.
+
+[url=https://github.com/Kareth-io/dst_bulkcrafting]GitHub[/url]
+
+
+
+[h1]Current Item List[/h1]
+
+[list]
+    [*]Rope
+    [*]Cut Stone
+    [*]Boards
+    [*]Papyrus
+    [*]Blow Dart
+    [*]Fire Dart
+    [*]Sleep Dart
+    [*]Electric Dart
+    [*]Gunpowder
+    [*]Giftwrap
+    [*]Bundling Wrap
+    [*]Healing Salve
+    [*]Honey Poultice
+[/list]
