@@ -4,24 +4,44 @@ This mod allows players to craft certain items in bulk quantites. It also includ
 Bulk craft amount can be tweaked anywhere from 2-20. Default is 10.
 Resource cost can be set to 10%-100%, 100% being normal cost. Default is 80%.
 
-[url=https://github.com/Kareth-io/dst_bulkcrafting]GitHub[/url]
+[url=https://github.com/Kareth-io/DST-bulkcrafting]GitHub[/url]
 
 
 
 [h1]Current Item List[/h1]
 
+[b] Refine [/b]
 [list]
     [*]Rope
     [*]Cut Stone
     [*]Boards
     [*]Papyrus
+[/list]
+
+[b] Combat [/b]
+[list]
     [*]Blow Dart
     [*]Fire Dart
     [*]Sleep Dart
     [*]Electric Dart
     [*]Gunpowder
+[/list]
+
+[b] Survival [/b]
+[list]
     [*]Giftwrap
     [*]Bundling Wrap
     [*]Healing Salve
     [*]Honey Poultice
+[/list]
+
+[b] Food [/b]
+[list]
+    [*]Refined Dust
+[/list]
+
+[b] Other [/b]
+[list]
+    [*]All Turfs
+    [*]Walters Ammo
 [/list]
